@@ -1,5 +1,3 @@
-## VivTool
-
 ### About VivTool
 
 With this tool you can edit Viv(Big) files.
