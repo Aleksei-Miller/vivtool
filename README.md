@@ -38,5 +38,5 @@ With this tool you can edit Viv(Big) files.
    - SSX 3 *.big
    - Starlancer *.hog
    - UEFA Champions League 2004 *.big
-    UEFA Champions League 2005 *.big
-    UEFA Euro 2004 *.big
+   - UEFA Champions League 2005 *.big
+   - UEFA Euro 2004 *.big
